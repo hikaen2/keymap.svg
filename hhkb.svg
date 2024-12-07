@@ -1,0 +1,619 @@
+<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+<style>
+  text { font-family: "Noto Sans CJK JP"; }
+
+</style>
+
+<rect x="1.8897637795275593" y="1.8897637795275593" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="9.448818897637796" y="1.8897637795275593" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="36.00000000000001" y="22.67716535433071" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="36.00000000000001" y="45.35433070866142" font-size="10pt" text-anchor="middle">
+Esc
+</text>
+<text x="36.00000000000001" y="66.51968503937009" font-size="10pt" text-anchor="middle">
+Power
+</text>
+<rect x="73.88976377952757" y="1.8897637795275593" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="81.4488188976378" y="1.8897637795275593" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="108.00000000000003" y="22.67716535433071" font-size="10pt" text-anchor="middle">
+!
+</text>
+<text x="108.00000000000003" y="45.35433070866142" font-size="10pt" text-anchor="middle">
+1
+</text>
+<text x="108.00000000000003" y="66.51968503937009" font-size="10pt" text-anchor="middle">
+F1
+</text>
+<rect x="145.88976377952758" y="1.8897637795275593" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="153.4488188976378" y="1.8897637795275593" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="180.00000000000003" y="22.67716535433071" font-size="10pt" text-anchor="middle">
+"
+</text>
+<text x="180.00000000000003" y="45.35433070866142" font-size="10pt" text-anchor="middle">
+2
+</text>
+<text x="180.00000000000003" y="66.51968503937009" font-size="10pt" text-anchor="middle">
+F2
+</text>
+<rect x="217.8897637795276" y="1.8897637795275593" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="225.44881889763786" y="1.8897637795275593" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="252.00000000000006" y="22.67716535433071" font-size="10pt" text-anchor="middle">
+#
+</text>
+<text x="252.00000000000006" y="45.35433070866142" font-size="10pt" text-anchor="middle">
+3
+</text>
+<text x="252.00000000000006" y="66.51968503937009" font-size="10pt" text-anchor="middle">
+F3
+</text>
+<rect x="289.88976377952764" y="1.8897637795275593" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="297.44881889763786" y="1.8897637795275593" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="324.00000000000006" y="22.67716535433071" font-size="10pt" text-anchor="middle">
+$
+</text>
+<text x="324.00000000000006" y="45.35433070866142" font-size="10pt" text-anchor="middle">
+4
+</text>
+<text x="324.00000000000006" y="66.51968503937009" font-size="10pt" text-anchor="middle">
+F4
+</text>
+<rect x="361.88976377952764" y="1.8897637795275593" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="369.44881889763786" y="1.8897637795275593" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="396.00000000000006" y="22.67716535433071" font-size="10pt" text-anchor="middle">
+%
+</text>
+<text x="396.00000000000006" y="45.35433070866142" font-size="10pt" text-anchor="middle">
+5
+</text>
+<text x="396.00000000000006" y="66.51968503937009" font-size="10pt" text-anchor="middle">
+F5
+</text>
+<rect x="433.8897637795277" y="1.8897637795275593" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="441.4488188976379" y="1.8897637795275593" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="468.0000000000001" y="22.67716535433071" font-size="10pt" text-anchor="middle">
+&amp;
+</text>
+<text x="468.0000000000001" y="45.35433070866142" font-size="10pt" text-anchor="middle">
+6
+</text>
+<text x="468.0000000000001" y="66.51968503937009" font-size="10pt" text-anchor="middle">
+F6
+</text>
+<rect x="505.8897637795277" y="1.8897637795275593" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="513.4488188976379" y="1.8897637795275593" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="540.0000000000001" y="22.67716535433071" font-size="10pt" text-anchor="middle">
+'
+</text>
+<text x="540.0000000000001" y="45.35433070866142" font-size="10pt" text-anchor="middle">
+7
+</text>
+<text x="540.0000000000001" y="66.51968503937009" font-size="10pt" text-anchor="middle">
+F7
+</text>
+<rect x="577.8897637795277" y="1.8897637795275593" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="585.4488188976379" y="1.8897637795275593" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="612.0000000000001" y="22.67716535433071" font-size="10pt" text-anchor="middle">
+(
+</text>
+<text x="612.0000000000001" y="45.35433070866142" font-size="10pt" text-anchor="middle">
+8
+</text>
+<text x="612.0000000000001" y="66.51968503937009" font-size="10pt" text-anchor="middle">
+F8
+</text>
+<rect x="649.8897637795277" y="1.8897637795275593" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="657.4488188976379" y="1.8897637795275593" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="684.0000000000001" y="22.67716535433071" font-size="10pt" text-anchor="middle">
+)
+</text>
+<text x="684.0000000000001" y="45.35433070866142" font-size="10pt" text-anchor="middle">
+9
+</text>
+<text x="684.0000000000001" y="66.51968503937009" font-size="10pt" text-anchor="middle">
+F9
+</text>
+<rect x="721.8897637795277" y="1.8897637795275593" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="729.4488188976379" y="1.8897637795275593" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="756.0000000000001" y="22.67716535433071" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="756.0000000000001" y="45.35433070866142" font-size="10pt" text-anchor="middle">
+0
+</text>
+<text x="756.0000000000001" y="66.51968503937009" font-size="10pt" text-anchor="middle">
+F10
+</text>
+<rect x="793.8897637795277" y="1.8897637795275593" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="801.4488188976379" y="1.8897637795275593" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="828.0000000000001" y="22.67716535433071" font-size="10pt" text-anchor="middle">
+=
+</text>
+<text x="828.0000000000001" y="45.35433070866142" font-size="10pt" text-anchor="middle">
+-
+</text>
+<text x="828.0000000000001" y="66.51968503937009" font-size="10pt" text-anchor="middle">
+F11
+</text>
+<rect x="865.8897637795278" y="1.8897637795275593" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="873.448818897638" y="1.8897637795275593" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="900.0000000000002" y="22.67716535433071" font-size="10pt" text-anchor="middle">
+~
+</text>
+<text x="900.0000000000002" y="45.35433070866142" font-size="10pt" text-anchor="middle">
+^
+</text>
+<text x="900.0000000000002" y="66.51968503937009" font-size="10pt" text-anchor="middle">
+F12
+</text>
+<rect x="937.8897637795278" y="1.8897637795275593" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="945.448818897638" y="1.8897637795275593" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="972.0000000000002" y="22.67716535433071" font-size="10pt" text-anchor="middle">
+|
+</text>
+<text x="972.0000000000002" y="45.35433070866142" font-size="10pt" text-anchor="middle">
+\
+</text>
+<text x="972.0000000000002" y="66.51968503937009" font-size="10pt" text-anchor="middle">
+Ins
+</text>
+<rect x="1009.8897637795278" y="1.8897637795275593" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="1017.448818897638" y="1.8897637795275593" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="1044.0000000000002" y="22.67716535433071" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="1044.0000000000002" y="45.35433070866142" font-size="10pt" text-anchor="middle">
+BS
+</text>
+<text x="1044.0000000000002" y="66.51968503937009" font-size="10pt" text-anchor="middle">
+Del
+</text>
+<rect x="1.8897637795275593" y="73.88976377952757" width="104.22047244094492" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="9.448818897637796" y="73.88976377952757" width="89.10236220472444" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="36.00000000000001" y="94.67716535433073" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="36.00000000000001" y="117.35433070866144" font-size="10pt" text-anchor="middle">
+Tab
+</text>
+<text x="36.00000000000001" y="138.5196850393701" font-size="10pt" text-anchor="middle">
+Caps
+</text>
+<rect x="109.88976377952758" y="73.88976377952757" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="117.44881889763782" y="73.88976377952757" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="144.00000000000003" y="94.67716535433073" font-size="10pt" text-anchor="middle">
+Q
+</text>
+<rect x="181.88976377952758" y="73.88976377952757" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="189.4488188976378" y="73.88976377952757" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="216.00000000000003" y="94.67716535433073" font-size="10pt" text-anchor="middle">
+W
+</text>
+<rect x="253.8897637795276" y="73.88976377952757" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="261.44881889763786" y="73.88976377952757" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="288.00000000000006" y="94.67716535433073" font-size="10pt" text-anchor="middle">
+E
+</text>
+<rect x="325.88976377952764" y="73.88976377952757" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="333.44881889763786" y="73.88976377952757" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="360.00000000000006" y="94.67716535433073" font-size="10pt" text-anchor="middle">
+R
+</text>
+<rect x="397.88976377952764" y="73.88976377952757" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="405.44881889763786" y="73.88976377952757" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="432.00000000000006" y="94.67716535433073" font-size="10pt" text-anchor="middle">
+T
+</text>
+<rect x="469.8897637795277" y="73.88976377952757" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="477.4488188976379" y="73.88976377952757" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="504.0000000000001" y="94.67716535433073" font-size="10pt" text-anchor="middle">
+Y
+</text>
+<rect x="541.8897637795277" y="73.88976377952757" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="549.4488188976379" y="73.88976377952757" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="576.0000000000001" y="94.67716535433073" font-size="10pt" text-anchor="middle">
+U
+</text>
+<rect x="613.8897637795277" y="73.88976377952757" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="621.4488188976379" y="73.88976377952757" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="648.0000000000001" y="94.67716535433073" font-size="10pt" text-anchor="middle">
+I
+</text>
+<text x="648.0000000000001" y="117.35433070866144" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="648.0000000000001" y="138.5196850393701" font-size="10pt" text-anchor="middle">
+PSc/SRq
+</text>
+<rect x="685.8897637795277" y="73.88976377952757" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="693.4488188976379" y="73.88976377952757" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="720.0000000000001" y="94.67716535433073" font-size="10pt" text-anchor="middle">
+O
+</text>
+<text x="720.0000000000001" y="117.35433070866144" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="720.0000000000001" y="138.5196850393701" font-size="10pt" text-anchor="middle">
+ScrLk
+</text>
+<rect x="757.8897637795277" y="73.88976377952757" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="765.4488188976379" y="73.88976377952757" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="792.0000000000001" y="94.67716535433073" font-size="10pt" text-anchor="middle">
+P
+</text>
+<text x="792.0000000000001" y="117.35433070866144" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="792.0000000000001" y="138.5196850393701" font-size="10pt" text-anchor="middle">
+Pus/Brk
+</text>
+<rect x="829.8897637795277" y="73.88976377952757" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="837.4488188976379" y="73.88976377952757" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="864.0000000000001" y="94.67716535433073" font-size="10pt" text-anchor="middle">
+`
+</text>
+<text x="864.0000000000001" y="117.35433070866144" font-size="10pt" text-anchor="middle">
+@
+</text>
+<text x="864.0000000000001" y="138.5196850393701" font-size="10pt" text-anchor="middle">
+↑
+</text>
+<rect x="901.8897637795278" y="73.88976377952757" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="909.448818897638" y="73.88976377952757" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="936.0000000000002" y="94.67716535433073" font-size="10pt" text-anchor="middle">
+{
+</text>
+<text x="936.0000000000002" y="117.35433070866144" font-size="10pt" text-anchor="middle">
+[
+</text>
+<path stroke="black" fill="none" stroke-width="0.25pt" d="M 981.448818897638 73.88976377952757 l 89.10236220472444 0 a 7.559055118110237 7.559055118110237 0 0 1 7.559055118110237 7.559055118110237 l 0 125.10236220472444 a 7.559055118110237 7.559055118110237 0 0 1 -7.559055118110237 7.559055118110237 l -71.10236220472441 0 a 7.559055118110237 7.559055118110237 0 0 1 -7.559055118110237 -7.559055118110237 l 0 -64.44094488188978 l -10.440944881889767 0 a 7.559055118110237 7.559055118110237 0 0 1 -7.559055118110237 -7.559055118110237 l 0 -53.102362204724415 a 7.559055118110237 7.559055118110237 0 0 1 7.559055118110237 -7.559055118110237 Z"/>
+<path stroke="black" fill="none" stroke-width="0.25pt" d="M 989.0078740157483 73.88976377952757 l 73.98425196850397 0 a 7.559055118110237 7.559055118110237 0 0 1 7.559055118110237 7.559055118110237 l 0 106.01574803149607 a 7.559055118110237 7.559055118110237 0 0 1 -7.559055118110237 7.559055118110237 l -55.98425196850394 0 a 7.559055118110237 7.559055118110237 0 0 1 -7.559055118110237 -7.559055118110237 l 0 -64.44094488188978 l -10.440944881889767 0 a 7.559055118110237 7.559055118110237 0 0 1 -7.559055118110237 -7.559055118110237 l 0 -34.20472440944882 a 7.559055118110237 7.559055118110237 0 0 1 7.559055118110237 -7.559055118110237 Z"/>
+<text x="1008.0000000000002" y="117.35433070866144" font-size="10pt" text-anchor="middle">
+Enter
+</text>
+<rect x="1.8897637795275593" y="145.88976377952758" width="122.22047244094492" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="9.448818897637796" y="145.88976377952758" width="107.10236220472444" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="36.00000000000001" y="166.67716535433073" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="36.00000000000001" y="189.35433070866145" font-size="10pt" text-anchor="middle">
+Control
+</text>
+<rect x="127.88976377952758" y="145.88976377952758" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="135.4488188976378" y="145.88976377952758" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="162.00000000000003" y="166.67716535433073" font-size="10pt" text-anchor="middle">
+A
+</text>
+<text x="162.00000000000003" y="189.35433070866145" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="162.00000000000003" y="210.51968503937013" font-size="10pt" text-anchor="middle">
+Vol_Dn
+</text>
+<rect x="199.88976377952758" y="145.88976377952758" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="207.4488188976378" y="145.88976377952758" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="234.00000000000003" y="166.67716535433073" font-size="10pt" text-anchor="middle">
+S
+</text>
+<text x="234.00000000000003" y="189.35433070866145" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="234.00000000000003" y="210.51968503937013" font-size="10pt" text-anchor="middle">
+Vol_Up
+</text>
+<rect x="271.88976377952764" y="145.88976377952758" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="279.44881889763786" y="145.88976377952758" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="306.00000000000006" y="166.67716535433073" font-size="10pt" text-anchor="middle">
+D
+</text>
+<text x="306.00000000000006" y="189.35433070866145" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="306.00000000000006" y="210.51968503937013" font-size="10pt" text-anchor="middle">
+Mute
+</text>
+<rect x="343.88976377952764" y="145.88976377952758" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="351.44881889763786" y="145.88976377952758" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="378.00000000000006" y="166.67716535433073" font-size="10pt" text-anchor="middle">
+F
+</text>
+<text x="378.00000000000006" y="189.35433070866145" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="378.00000000000006" y="210.51968503937013" font-size="10pt" text-anchor="middle">
+Eject
+</text>
+<rect x="415.88976377952764" y="145.88976377952758" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="423.44881889763786" y="145.88976377952758" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="450.00000000000006" y="166.67716535433073" font-size="10pt" text-anchor="middle">
+G
+</text>
+<rect x="487.8897637795277" y="145.88976377952758" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="495.4488188976379" y="145.88976377952758" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="522.0000000000001" y="166.67716535433073" font-size="10pt" text-anchor="middle">
+H
+</text>
+<text x="522.0000000000001" y="189.35433070866145" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="522.0000000000001" y="210.51968503937013" font-size="10pt" text-anchor="middle">
+*
+</text>
+<rect x="559.8897637795277" y="145.88976377952758" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="567.4488188976379" y="145.88976377952758" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="594.0000000000001" y="166.67716535433073" font-size="10pt" text-anchor="middle">
+J
+</text>
+<text x="594.0000000000001" y="189.35433070866145" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="594.0000000000001" y="210.51968503937013" font-size="10pt" text-anchor="middle">
+/
+</text>
+<rect x="631.8897637795277" y="145.88976377952758" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="639.4488188976379" y="145.88976377952758" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="666.0000000000001" y="166.67716535433073" font-size="10pt" text-anchor="middle">
+K
+</text>
+<text x="666.0000000000001" y="189.35433070866145" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="666.0000000000001" y="210.51968503937013" font-size="10pt" text-anchor="middle">
+Home
+</text>
+<rect x="703.8897637795277" y="145.88976377952758" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="711.4488188976379" y="145.88976377952758" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="738.0000000000001" y="166.67716535433073" font-size="10pt" text-anchor="middle">
+L
+</text>
+<text x="738.0000000000001" y="189.35433070866145" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="738.0000000000001" y="210.51968503937013" font-size="10pt" text-anchor="middle">
+PgUp
+</text>
+<rect x="775.8897637795277" y="145.88976377952758" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="783.4488188976379" y="145.88976377952758" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="810.0000000000001" y="166.67716535433073" font-size="10pt" text-anchor="middle">
++
+</text>
+<text x="810.0000000000001" y="189.35433070866145" font-size="10pt" text-anchor="middle">
+;
+</text>
+<text x="810.0000000000001" y="210.51968503937013" font-size="10pt" text-anchor="middle">
+←
+</text>
+<rect x="847.8897637795277" y="145.88976377952758" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="855.4488188976379" y="145.88976377952758" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="882.0000000000001" y="166.67716535433073" font-size="10pt" text-anchor="middle">
+*
+</text>
+<text x="882.0000000000001" y="189.35433070866145" font-size="10pt" text-anchor="middle">
+:
+</text>
+<text x="882.0000000000001" y="210.51968503937013" font-size="10pt" text-anchor="middle">
+→
+</text>
+<rect x="919.8897637795278" y="145.88976377952758" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="927.448818897638" y="145.88976377952758" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="954.0000000000002" y="166.67716535433073" font-size="10pt" text-anchor="middle">
+}
+</text>
+<text x="954.0000000000002" y="189.35433070866145" font-size="10pt" text-anchor="middle">
+]
+</text>
+<rect x="1.8897637795275593" y="217.8897637795276" width="140.22047244094492" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="9.448818897637796" y="217.8897637795276" width="125.10236220472444" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="36.00000000000001" y="238.67716535433078" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="36.00000000000001" y="261.35433070866145" font-size="10pt" text-anchor="middle">
+Shift
+</text>
+<rect x="145.88976377952758" y="217.8897637795276" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="153.4488188976378" y="217.8897637795276" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="180.00000000000003" y="238.67716535433078" font-size="10pt" text-anchor="middle">
+Z
+</text>
+<rect x="217.8897637795276" y="217.8897637795276" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="225.44881889763786" y="217.8897637795276" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="252.00000000000006" y="238.67716535433078" font-size="10pt" text-anchor="middle">
+X
+</text>
+<rect x="289.88976377952764" y="217.8897637795276" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="297.44881889763786" y="217.8897637795276" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="324.00000000000006" y="238.67716535433078" font-size="10pt" text-anchor="middle">
+C
+</text>
+<rect x="361.88976377952764" y="217.8897637795276" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="369.44881889763786" y="217.8897637795276" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="396.00000000000006" y="238.67716535433078" font-size="10pt" text-anchor="middle">
+V
+</text>
+<rect x="433.8897637795277" y="217.8897637795276" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="441.4488188976379" y="217.8897637795276" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="468.0000000000001" y="238.67716535433078" font-size="10pt" text-anchor="middle">
+B
+</text>
+<rect x="505.8897637795277" y="217.8897637795276" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="513.4488188976379" y="217.8897637795276" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="540.0000000000001" y="238.67716535433078" font-size="10pt" text-anchor="middle">
+N
+</text>
+<text x="540.0000000000001" y="261.35433070866145" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="540.0000000000001" y="282.51968503937013" font-size="10pt" text-anchor="middle">
++
+</text>
+<rect x="577.8897637795277" y="217.8897637795276" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="585.4488188976379" y="217.8897637795276" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="612.0000000000001" y="238.67716535433078" font-size="10pt" text-anchor="middle">
+M
+</text>
+<text x="612.0000000000001" y="261.35433070866145" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="612.0000000000001" y="282.51968503937013" font-size="10pt" text-anchor="middle">
+-
+</text>
+<rect x="649.8897637795277" y="217.8897637795276" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="657.4488188976379" y="217.8897637795276" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="684.0000000000001" y="238.67716535433078" font-size="10pt" text-anchor="middle">
+&lt;
+</text>
+<text x="684.0000000000001" y="261.35433070866145" font-size="10pt" text-anchor="middle">
+,
+</text>
+<text x="684.0000000000001" y="282.51968503937013" font-size="10pt" text-anchor="middle">
+End
+</text>
+<rect x="721.8897637795277" y="217.8897637795276" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="729.4488188976379" y="217.8897637795276" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="756.0000000000001" y="238.67716535433078" font-size="10pt" text-anchor="middle">
+&gt;
+</text>
+<text x="756.0000000000001" y="261.35433070866145" font-size="10pt" text-anchor="middle">
+.
+</text>
+<text x="756.0000000000001" y="282.51968503937013" font-size="10pt" text-anchor="middle">
+PgDn
+</text>
+<rect x="793.8897637795277" y="217.8897637795276" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="801.4488188976379" y="217.8897637795276" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="828.0000000000001" y="238.67716535433078" font-size="10pt" text-anchor="middle">
+?
+</text>
+<text x="828.0000000000001" y="261.35433070866145" font-size="10pt" text-anchor="middle">
+/
+</text>
+<text x="828.0000000000001" y="282.51968503937013" font-size="10pt" text-anchor="middle">
+↓
+</text>
+<rect x="865.8897637795278" y="217.8897637795276" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="873.448818897638" y="217.8897637795276" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="900.0000000000002" y="238.67716535433078" font-size="10pt" text-anchor="middle">
+_
+</text>
+<text x="900.0000000000002" y="261.35433070866145" font-size="10pt" text-anchor="middle">
+\
+</text>
+<rect x="937.8897637795278" y="217.8897637795276" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="945.448818897638" y="217.8897637795276" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="972.0000000000002" y="238.67716535433078" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="972.0000000000002" y="261.35433070866145" font-size="10pt" text-anchor="middle">
+↑
+</text>
+<text x="972.0000000000002" y="282.51968503937013" font-size="10pt" text-anchor="middle">
+Shift
+</text>
+<rect x="1009.8897637795278" y="217.8897637795276" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="1017.448818897638" y="217.8897637795276" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="1044.0000000000002" y="238.67716535433078" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="1044.0000000000002" y="261.35433070866145" font-size="10pt" text-anchor="middle">
+Shift
+</text>
+<rect x="1.8897637795275593" y="289.88976377952764" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="9.448818897637796" y="289.88976377952764" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="36.00000000000001" y="310.6771653543308" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="36.00000000000001" y="333.35433070866145" font-size="10pt" text-anchor="middle">
+Fn
+</text>
+<rect x="91.88976377952757" y="289.88976377952764" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="99.4488188976378" y="289.88976377952764" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="126.00000000000003" y="310.6771653543308" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="126.00000000000003" y="333.35433070866145" font-size="10pt" text-anchor="middle">
+全/半
+</text>
+<rect x="163.88976377952758" y="289.88976377952764" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="171.4488188976378" y="289.88976377952764" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="198.00000000000003" y="310.6771653543308" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="198.00000000000003" y="333.35433070866145" font-size="10pt" text-anchor="middle">
+LGUI
+</text>
+<rect x="235.8897637795276" y="289.88976377952764" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="243.44881889763786" y="289.88976377952764" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="270.00000000000006" y="310.6771653543308" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="270.00000000000006" y="333.35433070866145" font-size="10pt" text-anchor="middle">
+Alt
+</text>
+<rect x="307.88976377952764" y="289.88976377952764" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="315.44881889763786" y="289.88976377952764" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="342.00000000000006" y="310.6771653543308" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="342.00000000000006" y="333.35433070866145" font-size="10pt" text-anchor="middle">
+無変換
+</text>
+<rect x="379.88976377952764" y="289.88976377952764" width="176.22047244094492" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="387.44881889763786" y="289.88976377952764" width="161.10236220472444" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="559.8897637795277" y="289.88976377952764" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="567.4488188976379" y="289.88976377952764" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="594.0000000000001" y="310.6771653543308" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="594.0000000000001" y="333.35433070866145" font-size="10pt" text-anchor="middle">
+変換
+</text>
+<rect x="631.8897637795277" y="289.88976377952764" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="639.4488188976379" y="289.88976377952764" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="666.0000000000001" y="310.6771653543308" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="666.0000000000001" y="333.35433070866145" font-size="10pt" text-anchor="middle">
+Kana
+</text>
+<rect x="703.8897637795277" y="289.88976377952764" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="711.4488188976379" y="289.88976377952764" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="738.0000000000001" y="310.6771653543308" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="738.0000000000001" y="333.35433070866145" font-size="10pt" text-anchor="middle">
+Alt
+</text>
+<rect x="775.8897637795277" y="289.88976377952764" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="783.4488188976379" y="289.88976377952764" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="810.0000000000001" y="310.6771653543308" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="810.0000000000001" y="333.35433070866145" font-size="10pt" text-anchor="middle">
+Fn
+</text>
+<rect x="865.8897637795278" y="289.88976377952764" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="873.448818897638" y="289.88976377952764" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="900.0000000000002" y="310.6771653543308" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="900.0000000000002" y="333.35433070866145" font-size="10pt" text-anchor="middle">
+←
+</text>
+<rect x="937.8897637795278" y="289.88976377952764" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="945.448818897638" y="289.88976377952764" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="972.0000000000002" y="310.6771653543308" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="972.0000000000002" y="333.35433070866145" font-size="10pt" text-anchor="middle">
+↓
+</text>
+<rect x="1009.8897637795278" y="289.88976377952764" width="68.22047244094489" height="68.22047244094489" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<rect x="1017.448818897638" y="289.88976377952764" width="53.10236220472442" height="49.13385826771654" fill="none" stroke="black" stroke-width="0.25pt" rx="7.559055118110237" ry="7.559055118110237"/>
+<text x="1044.0000000000002" y="310.6771653543308" font-size="10pt" text-anchor="middle">
+
+</text>
+<text x="1044.0000000000002" y="333.35433070866145" font-size="10pt" text-anchor="middle">
+→
+</text>
+</svg>
